@@ -1,1 +1,1 @@
-# 23-2_Study
+# Algorithm_Study
